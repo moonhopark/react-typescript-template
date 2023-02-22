@@ -4,8 +4,6 @@ import HOME from './home.svg'
 import ClickCounter from './ClickCounter'
 
 const App = () => {
-  const name = 'mooonho'
-
   return (
     <>
       <h1>
