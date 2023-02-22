@@ -1,8 +1,6 @@
 import { useState } from 'react';
 
-type Props = {};
-
-const ClickCounter = (props: Props) => {
+const ClickCounter = () => {
   const [count, setCount] = useState(0);
 
   return (
